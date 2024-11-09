@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/",
   title: "向风",
   description: "欲将心事付瑶琴。知音少，弦断有谁听",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
